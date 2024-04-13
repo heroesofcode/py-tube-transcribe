@@ -1,0 +1,8 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+requests==2.31.0
+SpeechRecognition==3.10.3
+typing_extensions==4.11.0
+urllib3==2.2.1
+youtube-dl==2021.12.17
