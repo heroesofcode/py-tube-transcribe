@@ -5,9 +5,7 @@ import speech_recognition as sr
 from pytube import YouTube
 
 class Transcribe:
-    def __init__(self):
-        pass
-    
+
     def download_video(self, url):
         try:
             ssl._create_default_https_context = ssl._create_unverified_context
