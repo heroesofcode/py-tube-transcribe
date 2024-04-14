@@ -3,7 +3,6 @@
 if [[ "$(uname)" == "Linux" ]]; then
     echo "Operational system: Linux"
     if ! command -v ffmpeg &> /dev/null; then
-        echo "FFmpeg não encontrado. Instalando..."
         sudo apt-get update
         sudo apt-get install ffmpeg -y
         python3 -m py_tube_transcribe
