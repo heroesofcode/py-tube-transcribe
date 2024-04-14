@@ -28,6 +28,8 @@ chmod +x ./run.sh
 ./run.sh
 ```
 
+<img src="https://github.com/heroesofcode/py-tube-transcribe/blob/main/assets/cli.png">
+
 ## License
 
 PyTubeTranscribe is released under the MIT license. See [LICENSE](https://github.com/heroesofcode/py-tube-transcribe/blob/main/LICENSE) for details.
