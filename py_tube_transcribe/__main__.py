@@ -10,4 +10,4 @@ if __name__ == "__main__":
         if audio_file:
             transcribe.transcribe_audio(audio_file)
     else:
-        print("The video could not be downloaded.")
+        print("❌ The video could not be downloaded.")
