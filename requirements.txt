@@ -11,7 +11,7 @@ pillow==10.3.0
 proglog==0.1.10
 Pygments==2.18.0
 pytube==15.0.0
-requests==2.32.2
+requests==2.32.3
 rich==13.7.1
 setuptools==70.0.0
 SpeechRecognition==3.10.4
