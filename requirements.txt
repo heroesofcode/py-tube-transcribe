@@ -17,4 +17,4 @@ setuptools==70.0.0
 SpeechRecognition==3.10.4
 tqdm==4.66.4
 typing_extensions==4.12.2
-urllib3==2.2.1
+urllib3==2.2.2
