@@ -15,6 +15,6 @@ requests==2.32.3
 rich==13.7.1
 setuptools==72.1.0
 SpeechRecognition==3.10.4
-tqdm==4.66.4
+tqdm==4.66.5
 typing_extensions==4.12.2
 urllib3==2.2.2
