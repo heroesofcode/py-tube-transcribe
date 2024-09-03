@@ -6,14 +6,14 @@ imageio==2.35.1
 imageio-ffmpeg==0.5.1
 markdown-it-py==3.0.0
 mdurl==0.1.2
-numpy==2.1.0
+numpy==2.1.1
 pillow==10.4.0
 proglog==0.1.10
 Pygments==2.18.0
 pytube==15.0.0
 requests==2.32.3
 rich==13.8.0
-setuptools==74.1.0
+setuptools==74.1.1
 SpeechRecognition==3.10.4
 tqdm==4.66.5
 typing_extensions==4.12.2
