@@ -12,7 +12,7 @@ proglog==0.1.10
 Pygments==2.18.0
 pytube==15.0.0
 requests==2.32.3
-rich==13.8.0
+rich==13.8.1
 setuptools==74.1.2
 SpeechRecognition==3.10.4
 tqdm==4.66.5
