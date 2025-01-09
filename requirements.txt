@@ -13,7 +13,7 @@ Pygments==2.19.1
 pytube==15.0.0
 requests==2.32.3
 rich==13.9.4
-setuptools==75.7.0
+setuptools==75.8.0
 SpeechRecognition==3.13.0
 tqdm==4.67.1
 typing_extensions==4.12.2
