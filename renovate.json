@@ -8,5 +8,8 @@
       "automerge": false
     }
   ],
-  "commitMessage": "deps: update {{depName}} to v{{newVersion}}"
+  "commitMessage": {
+    "prefix": "deps:",
+    "subject": "update {{depName}} to v{{newVersion}}"
+  }
 }
