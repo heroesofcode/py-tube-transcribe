@@ -1,15 +1,12 @@
 {
-  "extends": [
-    "config:recommended"
-  ],
+  "extends": ["config:recommended"],
   "packageRules": [
     {
       "matchPackagePatterns": ["*"],
       "automerge": false
     }
   ],
-  "commitMessage": {
-    "prefix": "deps:",
-    "subject": "update {{depName}} to v{{newVersion}}"
-  }
+  "commitMessagePrefix": "chore(deps):",
+  "commitMessageAction": "update",
+  "commitMessageTopic": "{{depName}} to v{{newVersion}}"
 }
