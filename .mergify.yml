@@ -8,6 +8,23 @@ pull_request_rules:
       - author~=^dependabot(|-preview)\[bot\]$
       - check-success=build (ubuntu-latest, 3.12)
       - check-success=build (macos-latest, 3.12)
+      - check-success=build (ubuntu-latest, 3.11)
+      - check-success=build (macos-latest, 3.11)
+      - check-success=build (ubuntu-latest, 3.10)
+      - check-success=build (macos-latest, 3.10)
+    actions:
+      merge:
+        method: squash
+
+  - name: Automatic merges for Renovate pull requests
+    conditions:
+      - author~=^renovate\[bot\]$
+      - check-success=build (ubuntu-latest, 3.12)
+      - check-success=build (macos-latest, 3.12)
+      - check-success=build (ubuntu-latest, 3.11)
+      - check-success=build (macos-latest, 3.11)
+      - check-success=build (ubuntu-latest, 3.10)
+      - check-success=build (macos-latest, 3.10)
     actions:
       merge:
         method: squash
@@ -17,6 +34,10 @@ pull_request_rules:
       - author~=^joaolfp
       - check-success=build (ubuntu-latest, 3.12)
       - check-success=build (macos-latest, 3.12)
+      - check-success=build (ubuntu-latest, 3.11)
+      - check-success=build (macos-latest, 3.11)
+      - check-success=build (ubuntu-latest, 3.10)
+      - check-success=build (macos-latest, 3.10)
     actions:
       merge:
         method: squash
