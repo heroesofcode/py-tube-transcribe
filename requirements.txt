@@ -7,7 +7,7 @@ imageio-ffmpeg==0.6.0
 markdown-it-py==3.0.0
 mdurl==0.1.2
 numpy==2.2.4
-pillow==11.1.0
+pillow==11.2.1
 proglog==0.1.11
 Pygments==2.19.1
 pytube==15.0.0
