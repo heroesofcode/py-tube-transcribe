@@ -9,7 +9,7 @@ mdurl==0.1.2
 numpy==2.2.6
 pillow==11.2.1
 proglog==0.1.12
-Pygments==2.19.1
+Pygments==2.19.2
 pytube==15.0.0
 requests==2.32.4
 rich==14.0.0
