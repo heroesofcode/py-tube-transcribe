@@ -4,7 +4,7 @@ decorator==5.2.1
 idna==3.10
 imageio==2.37.0
 imageio-ffmpeg==0.6.0
-markdown-it-py==3.0.0
+markdown-it-py==4.0.0
 mdurl==0.1.2
 numpy==2.2.6
 pillow==11.3.0
