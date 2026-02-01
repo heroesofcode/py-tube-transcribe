@@ -1,3 +1,6 @@
+> [!WARNING]
+> This project is no longer maintained.
+
 ## PyTubeTranscribe 🐍
 
 [![CI](https://github.com/heroesofcode/py-tube-transcribe/actions/workflows/CI.yml/badge.svg)](https://github.com/heroesofcode/py-tube-transcribe/actions/workflows/CI.yml)
